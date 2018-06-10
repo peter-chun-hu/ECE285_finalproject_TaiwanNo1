@@ -144,7 +144,7 @@ model.fit_generator(image_gen.flow(x_train, y_train.toarray(), batch_size=batch_
           )
 
 # traning accuracy
-score = model.evaluate(x_train, y_train, verbose=0)
+score = model.evaluate(x_train, y_train.toarray(), verbose=0)
 print('Training loss: {0:.4f}\nTraining accuracy:  {1:.4f}'.format(*score))
 
 
