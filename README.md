@@ -13,4 +13,5 @@ Humpback Whale Identification Challenge from [Kaggle](https://www.kaggle.com/c/w
 3. Siamese network
    -
 ## Code organization
-demo.ipynb -- Run a demo of our code ( reproduce Figure 3 of our report )
+- demo.ipynb -- Run a demo of our code ( reproduce Figure 3 of our report )
+- code/baseline.py -- Module implementing baseline algorithm
