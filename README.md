@@ -26,5 +26,6 @@ Humpback Whale Identification Challenge from [Kaggle](https://www.kaggle.com/c/w
 - code/transfer_learning.ipynb -- Implementation of transfer learning in Jupyter Notebook
 - code/SiameseNet.py -- Implementation of siamese network
 - code/SiameseNet.ipynb -- Implementation of siamese network in Jupyter Notebook
+- result/
 - data/train -- Training data from Kaggle 
 - data/test -- Testing data from Kaggle
