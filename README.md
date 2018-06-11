@@ -7,6 +7,7 @@ Humpback Whale Identification Challenge from [Kaggle](https://www.kaggle.com/c/w
 
 ## Requirements
 1. baseline
+   - Use launch-pytorch-gpu.sh
 2. transfer learning
 3. Siamese network
 ## Code organization
