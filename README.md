@@ -1,7 +1,7 @@
 # ECE285 final project TaiwanNo1
 Humpback Whale Identification Challenge from [Kaggle](https://www.kaggle.com/c/whale-categorization-playground)
 ## Database
-8000 images from 4000 classes
+9850 images from 4251 classes
 ![whale](https://kaggle2.blob.core.windows.net/competitions/kaggle/3333/media/happy-whale.jpg "whale example")
 ## Description
 
