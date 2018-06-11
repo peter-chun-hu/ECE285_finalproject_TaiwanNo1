@@ -7,11 +7,14 @@ Humpback Whale Identification Challenge from [Kaggle](https://www.kaggle.com/c/w
 
 ## Requirements
 1. baseline
-   - Use launch-pytorch-gpu.sh
+   - launch-pytorch-gpu.sh
 2. transfer learning
-   - Use launch-pytorch-gpu.sh
+   - launch-pytorch-gpu.sh
 3. Siamese network
-   - Use launch-pytorch-gpu.sh
+   - Cannot run on UCSD cluster because of [Keras and Tensorflow version conflict](https://github.com/keras-team/keras/issues/9900) and [Jupyter Notebook Python kernel loading problem](https://github.com/jupyter/notebook/issues/2563)
+   - Python3
+   - Keras
+   - Tensorflow
    
 ## Code organization
 - demo.ipynb -- Run a demo of our code ( reproduce Figure 3 of our report )
