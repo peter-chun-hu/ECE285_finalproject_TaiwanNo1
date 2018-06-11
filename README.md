@@ -16,15 +16,15 @@ Humpback Whale Identification Challenge from [Kaggle](https://www.kaggle.com/c/w
      - Python3
      - Keras
      - Tensorflow
-     - jupyter notebook (optional)
+     - Jupyter Notebook (optional)
    
 ## Code organization
 - demo.ipynb -- Run a demo of our code ( reproduce Figure 3 of our report )
+- code/baseline.py -- Implementation of baseline algorithm
+- code/baseline.ipynb -- Implementation of baseline algorithm in Jupyter Notebook
+- code/transfer_learning.py -- Implementation of transfer learning
+- code/transfer_learning.ipynb -- Implementation of transfer learning in Jupyter Notebook
+- code/SiameseNet.py -- Implementation of siamese network
+- code/SiameseNet.ipynb -- Implementation of siamese network in Jupyter Notebook
 - data/train -- Training data from Kaggle 
 - data/test -- Testing data from Kaggle
-- code/baseline.py -- Implementation of baseline algorithm
-- code/baseline.ipynb -- Implementation of baseline algorithm in jupyter
-- code/transfer_learning.py -- Implementation of transfer learning
-- code/transfer_learning.ipynb -- Implementation of transfer learning in jupyter
-- code/SiameseNet.py -- Implementation of siamese network
-- code/SiameseNet.ipynb -- Implementation of siamese network in jupyter
