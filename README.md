@@ -10,6 +10,7 @@ Humpback Whale Identification Challenge from [Kaggle](https://www.kaggle.com/c/w
    - Use launch-pytorch-gpu.sh
 2. transfer learning
 3. Siamese network
+   
 ## Code organization
 - demo.ipynb -- Run a demo of our code ( reproduce Figure 3 of our report )
 - data/train -- Training data from Kaggle 
