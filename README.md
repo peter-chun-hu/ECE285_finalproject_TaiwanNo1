@@ -11,4 +11,9 @@ Humpback Whale Identification Challenge from [Kaggle](https://www.kaggle.com/c/w
 3. Siamese network
 ## Code organization
 - demo.ipynb -- Run a demo of our code ( reproduce Figure 3 of our report )
-- code/baseline.py -- Module implementing baseline algorithm
+- code/baseline.py -- Implementation of baseline algorithm
+- code/baseline.ipynb -- Implementation of baseline algorithm in jupyter
+- code/transfer_learning.py -- Implementation of transfer learning
+- code/transfer_learning.ipynb -- Implementation of transfer learning in jupyter
+- code/SiameseNet.py -- Implementation of siamese network
+- code/SiameseNet.ipynb -- Implementation of siamese network in jupyter
