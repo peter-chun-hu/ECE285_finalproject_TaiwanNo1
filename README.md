@@ -11,10 +11,11 @@ Humpback Whale Identification Challenge from [Kaggle](https://www.kaggle.com/c/w
 2. transfer learning
    - launch-pytorch-gpu.sh
 3. Siamese network
-   - Cannot run on UCSD cluster because of [Keras and Tensorflow version conflict](https://github.com/keras-team/keras/issues/9900) and [Jupyter Notebook Python kernel loading problem](https://github.com/jupyter/notebook/issues/2563)
-   - Python3
-   - Keras
-   - Tensorflow
+   - Cannot run on UCSD cluster because of [Keras and Tensorflow version conflict](https://github.com/keras-team/keras/issues/9900) and [Jupyter Notebook loading incorrect Python kernel](https://github.com/jupyter/notebook/issues/2563)
+   - To run on local, you will need to install:
+     - Python3
+     - Keras
+     - Tensorflow
    
 ## Code organization
 - demo.ipynb -- Run a demo of our code ( reproduce Figure 3 of our report )
