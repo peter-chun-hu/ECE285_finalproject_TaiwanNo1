@@ -1,7 +1,7 @@
 # ECE285 final project TaiwanNo1
 Humpback Whale Identification Challenge from [Kaggle](https://www.kaggle.com/c/whale-categorization-playground)
 ## Database
-25,000 images from 4000 classes
+8000 images from 4000 classes
 ![whale](https://kaggle2.blob.core.windows.net/competitions/kaggle/3333/media/happy-whale.jpg "whale example")
 ## Description
 
@@ -9,8 +9,9 @@ Humpback Whale Identification Challenge from [Kaggle](https://www.kaggle.com/c/w
 1. baseline
    - Use launch-pytorch-gpu.sh
 2. transfer learning
+   - Use launch-pytorch-gpu.sh
 3. Siamese network
-   - Keras
+   - Use launch-pytorch-gpu.sh
    
 ## Code organization
 - demo.ipynb -- Run a demo of our code ( reproduce Figure 3 of our report )
