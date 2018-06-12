@@ -6,8 +6,6 @@ Humpback Whale Identification Challenge from [Kaggle](https://www.kaggle.com/c/w
   <img width="460" src="https://kaggle2.blob.core.windows.net/competitions/kaggle/3333/media/happy-whale.jpg">
 </p>
 
-## Description
-
 ## Requirements
 1. demo
    - launch-pytorch-gpu.sh
