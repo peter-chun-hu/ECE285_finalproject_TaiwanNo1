@@ -6,11 +6,17 @@ Humpback Whale Identification Challenge from [Kaggle](https://www.kaggle.com/c/w
 ## Description
 
 ## Requirements
-1. baseline
+1. demo
    - launch-pytorch-gpu.sh
-2. transfer learning
+   - git lfs (Please use "git lfs pull" after you git clone this file)
+     - git clone ......
+     - cd ECE285_finalproject_TaiwanNo1
+     - git lfs pull
+2. baseline
    - launch-pytorch-gpu.sh
-3. Siamese network
+3. transfer learning
+   - launch-pytorch-gpu.sh
+4. Siamese network
    - Cannot run on UCSD cluster because of [Keras and Tensorflow version conflict](https://github.com/keras-team/keras/issues/9900) and [Jupyter Notebook loading incorrect Python kernel](https://github.com/jupyter/notebook/issues/2563)
    - To run code on local computer, you will need to install:
      - Python3
@@ -19,13 +25,17 @@ Humpback Whale Identification Challenge from [Kaggle](https://www.kaggle.com/c/w
      - Jupyter Notebook (optional)
    
 ## Code organization
-- demo.ipynb -- Run a demo of our code ( reproduce Figure 3 of our report )
+- demo.ipynb -- Run a demo of our code (Train for 5 epoches and predict 100 images' label)
 - code/baseline.py -- Implementation of baseline algorithm
 - code/baseline.ipynb -- Implementation of baseline algorithm in Jupyter Notebook
 - code/transfer_learning.py -- Implementation of transfer learning
 - code/transfer_learning.ipynb -- Implementation of transfer learning in Jupyter Notebook
 - code/SiameseNet.py -- Implementation of siamese network
 - code/SiameseNet.ipynb -- Implementation of siamese network in Jupyter Notebook
-- result/
 - data/train -- Training data from Kaggle 
 - data/test -- Testing data from Kaggle
+- data/train.csv -- label of training data
+- demo_data/test -- 100 images from test data
+- demo_data/processed_image.npy -- processed images' data
+- result/baseline_prediction.csv --
+- result/siamese_prediction.csv --
