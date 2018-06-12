@@ -1,5 +1,5 @@
 # Description
-This is UCSD ECE285 final project develeped by team TaiwanNo1.
+This is UCSD ECE285 final project develeped by team TaiwanNo1<br>
 Humpback Whale Identification Challenge is a competition provided by [Kaggle](https://www.kaggle.com/c/whale-categorization-playground) .
 ## Database
 9850 images from 4251 classes
