@@ -28,7 +28,8 @@ Humpback Whale Identification Challenge from [Kaggle](https://www.kaggle.com/c/w
      - Jupyter Notebook (optional)
    
 ## Code organization
-- demo.ipynb -- Run a demo of our code (Train for 5 epoches and predict 100 images' label)
+<pre>
+- demo.ipynb --                                  Run a demo of our code (Train for 5 epoches and predict 100 images' label)
 - code/baseline.py -- Implementation of baseline algorithm
 - code/baseline.ipynb -- Implementation of baseline algorithm in Jupyter Notebook
 - code/transfer_learning.py -- Implementation of transfer learning
@@ -42,3 +43,4 @@ Humpback Whale Identification Challenge from [Kaggle](https://www.kaggle.com/c/w
 - demo_data/processed_image.npy -- processed image data
 - result/baseline_prediction.csv -- prediction of test data using baseline
 - result/siamese_prediction.csv -- prediction of test data using siamese net
+</pre>
