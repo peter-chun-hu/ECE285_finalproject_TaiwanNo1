@@ -1,6 +1,6 @@
 # Description
 This is UCSD ECE285 final project develeped by team TaiwanNo1.<br>
-We join Kaggle [Humpback Whale Identification Challenge](https://www.kaggle.com/c/whale-categorization-playground) .
+We join Kaggle [Humpback Whale Identification Challenge](https://www.kaggle.com/c/whale-categorization-playground) and try to aplly what we learn during the class.
 ## Database
 9850 images from 4251 classes
 <p align="left">
