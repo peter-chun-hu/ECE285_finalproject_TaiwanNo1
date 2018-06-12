@@ -3,7 +3,7 @@ Humpback Whale Identification Challenge from [Kaggle](https://www.kaggle.com/c/w
 ## Database
 9850 images from 4251 classes
 <p align="left">
-  <img width="460" height="920" src="https://kaggle2.blob.core.windows.net/competitions/kaggle/3333/media/happy-whale.jpg">
+  <img width="460" height="700" src="https://kaggle2.blob.core.windows.net/competitions/kaggle/3333/media/happy-whale.jpg">
 </p>
 ## Description
 
