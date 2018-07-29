@@ -11,13 +11,13 @@ We join Kaggle [Humpback Whale Identification Challenge](https://www.kaggle.com/
 1. demo
    - `launch-pytorch-gpu.sh`
    - git lfs (Please use "git lfs pull" after you git clone this file)
-     - git clone https://github.com/eddietseng1129/ECE285_finalproject_TaiwanNo1.git
-     - cd ECE285_finalproject_TaiwanNo1
-     - git lfs pull
+     - `git clone https://github.com/eddietseng1129/ECE285_finalproject_TaiwanNo1.git`
+     - `cd ECE285_finalproject_TaiwanNo1`
+     - `git lfs pull`
 2. baseline
-   - launch-pytorch-gpu.sh
+   - `launch-pytorch-gpu.sh`
 3. transfer learning
-   - launch-pytorch-gpu.sh
+   - `launch-pytorch-gpu.sh`
 4. Siamese network
    - Cannot run on UCSD cluster because of [Keras and Tensorflow version conflict](https://github.com/keras-team/keras/issues/9900) and [Jupyter Notebook loading incorrect Python kernel](https://github.com/jupyter/notebook/issues/2563)
    - To run code on local computer, you will need to install:
