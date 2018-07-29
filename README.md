@@ -9,7 +9,7 @@ We join Kaggle [Humpback Whale Identification Challenge](https://www.kaggle.com/
 
 ## Requirements
 1. demo
-   - launch-pytorch-gpu.sh
+   - `launch-pytorch-gpu.sh`
    - git lfs (Please use "git lfs pull" after you git clone this file)
      - git clone https://github.com/eddietseng1129/ECE285_finalproject_TaiwanNo1.git
      - cd ECE285_finalproject_TaiwanNo1
