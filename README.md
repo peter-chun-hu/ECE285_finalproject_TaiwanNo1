@@ -1,10 +1,16 @@
 # Description
 This is UCSD ECE285 final project developed by Eddie Tseng, Chun Hu and Ping-Chun Chiang.<br>
 We join Kaggle [Humpback Whale Identification Challenge](https://www.kaggle.com/c/whale-categorization-playground) and try to aplly what we learn during the class.
+
+## Results
+1. baseline
+2. Siamese network
+3. Report
+
 ## Database
 9850 images from 4251 classes
 <p align="left">
-  <img width="460" src="https://kaggle2.blob.core.windows.net/competitions/kaggle/3333/media/happy-whale.jpg">
+  <img width="360" src="https://kaggle2.blob.core.windows.net/competitions/kaggle/3333/media/happy-whale.jpg">
 </p>
 
 ## Requirements
@@ -42,4 +48,5 @@ We join Kaggle [Humpback Whale Identification Challenge](https://www.kaggle.com/
 - demo_data/processed_image.npy      -- Processed image data
 - result/baseline_prediction.csv     -- Prediction of test data using baseline
 - result/siamese_prediction.csv      -- Prediction of test data using siamese net
+- ECE285_Project_Paper.pdf           -- Report of this project
 </pre>
