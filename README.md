@@ -1,4 +1,4 @@
-# Description
+## Description
 This is UCSD ECE285 final project developed by Eddie Tseng, Chun Hu and Ping-Chun Chiang.<br>
 We join Kaggle [Humpback Whale Identification Challenge](https://www.kaggle.com/c/whale-categorization-playground) and try to aplly what we learn during the class.
 
