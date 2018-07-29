@@ -4,13 +4,15 @@ We join Kaggle [Humpback Whale Identification Challenge](https://www.kaggle.com/
 
 ## Results
 1. baseline
+![Alt text](img/baseline.png)  
 2. Siamese network
-3. Report
+![Alt text](img/score_Siasmese.png)  
+3. [Report](ECE285_Project_Paper.pdf)
 
 ## Database
 9850 images from 4251 classes
 <p align="left">
-  <img width="360" src="https://kaggle2.blob.core.windows.net/competitions/kaggle/3333/media/happy-whale.jpg">
+  <img width="460" src="https://kaggle2.blob.core.windows.net/competitions/kaggle/3333/media/happy-whale.jpg">
 </p>
 
 ## Requirements
